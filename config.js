@@ -32,12 +32,8 @@ const CONFIG = {
             startText: "This should be an easy answer Makoti",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
+       
         third: {
-            text: "Im trying my luck , will u buy me a new laptop ❤️", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
-        },
-        fourth: {
             text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
